@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MiguelBernadin/movie2/static/css/main.4166227b.css",
+    "main.js": "/MiguelBernadin/movie2/static/js/main.dff02006.js",
+    "static/js/787.6ebf890f.chunk.js": "/MiguelBernadin/movie2/static/js/787.6ebf890f.chunk.js",
+    "index.html": "/MiguelBernadin/movie2/index.html",
+    "main.4166227b.css.map": "/MiguelBernadin/movie2/static/css/main.4166227b.css.map",
+    "main.dff02006.js.map": "/MiguelBernadin/movie2/static/js/main.dff02006.js.map",
+    "787.6ebf890f.chunk.js.map": "/MiguelBernadin/movie2/static/js/787.6ebf890f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4166227b.css",
+    "static/js/main.dff02006.js"
+  ]
+}

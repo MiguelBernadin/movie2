@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MiguelBernadin/movie2/static/css/main.4166227b.css",
-    "main.js": "/MiguelBernadin/movie2/static/js/main.b1823f64.js",
-    "static/js/787.6ebf890f.chunk.js": "/MiguelBernadin/movie2/static/js/787.6ebf890f.chunk.js",
-    "index.html": "/MiguelBernadin/movie2/index.html",
-    "main.4166227b.css.map": "/MiguelBernadin/movie2/static/css/main.4166227b.css.map",
-    "main.b1823f64.js.map": "/MiguelBernadin/movie2/static/js/main.b1823f64.js.map",
-    "787.6ebf890f.chunk.js.map": "/MiguelBernadin/movie2/static/js/787.6ebf890f.chunk.js.map"
+    "main.css": "/movie2/static/css/main.4166227b.css",
+    "main.js": "/movie2/static/js/main.96e7d3b9.js",
+    "static/js/787.6ebf890f.chunk.js": "/movie2/static/js/787.6ebf890f.chunk.js",
+    "index.html": "/movie2/index.html",
+    "main.4166227b.css.map": "/movie2/static/css/main.4166227b.css.map",
+    "main.96e7d3b9.js.map": "/movie2/static/js/main.96e7d3b9.js.map",
+    "787.6ebf890f.chunk.js.map": "/movie2/static/js/787.6ebf890f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4166227b.css",
-    "static/js/main.b1823f64.js"
+    "static/js/main.96e7d3b9.js"
   ]
 }
